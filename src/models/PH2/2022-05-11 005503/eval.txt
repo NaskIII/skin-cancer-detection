@@ -1,0 +1,11 @@
+
+Corretas: 34; 
+Incorretas: 5; 
+Especificidade: 27; 
+Sensibilidade: 7;
+
+Total Especificidade: 30; Total Sensibilidade: 9;
+
+Porcentagem Especificidade: 90.0; 
+Porcentagem Sensibilidade: 77.77777777777779; 
+Porcentagem Acurácia: 87.17948717948718;
